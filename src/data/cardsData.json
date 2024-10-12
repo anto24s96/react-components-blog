@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "title": "Esplorare le Stelle",
+        "description": "Una guida per osservare il cielo notturno e riconoscere le costellazioni."
+    },
+    {
+        "id": 2,
+        "title": "Ricette Veloci",
+        "description": "Scopri 10 piatti che puoi preparare in meno di 30 minuti."
+    },
+    {
+        "id": 3,
+        "title": "Viaggio in Giappone",
+        "description": "Esperienze indimenticabili nei templi e nelle città del Sol Levante."
+    },
+    {
+        "id": 4,
+        "title": "Tecniche di Fotografia",
+        "description": "Consigli su come migliorare le tue foto con semplici accorgimenti."
+    },
+    {
+        "id": 5,
+        "title": "Mindfulness per Principianti",
+        "description": "Un'introduzione alla pratica della consapevolezza per ridurre lo stress."
+    },
+    {
+        "id": 6,
+        "title": "Guida alla Programmazione",
+        "description": "I primi passi per imparare a programmare con Javascript."
+    },
+    {
+        "id": 7,
+        "title": "Fitness a Casa",
+        "description": "Esercizi semplici da fare a casa per mantenersi in forma."
+    },
+    {
+        "id": 8,
+        "title": "Giardinaggio Urbano",
+        "description": "Come creare un piccolo giardino sul balcone di casa."
+    },
+    {
+        "id": 9,
+        "title": "Storia dell'Arte Moderna",
+        "description": "Un viaggio attraverso i movimenti artistici del XX secolo."
+    },
+    {
+        "id": 10,
+        "title": "Introduzione alla Meditazione",
+        "description": "Tecniche di meditazione per trovare la pace interiore."
+    }
+]
